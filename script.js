@@ -2,7 +2,7 @@ let sound;
 let fft;
 let circleSize;
 function preload(){
-  sound = loadSound('12barBlues002.ogg');
+  sound = loadSound('ludwig.mp3');
 }
 
 function setup(){
